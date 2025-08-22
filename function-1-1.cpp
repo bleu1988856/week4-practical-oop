@@ -1,4 +1,4 @@
-#include "person.h"
+#include "Person.h"
 #include <string>
 
 Person* createPersonArray(int n){
