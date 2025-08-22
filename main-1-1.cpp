@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Person.h"
+#include "person.h"
 using namespace std;
 
 
