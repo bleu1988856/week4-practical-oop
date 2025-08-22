@@ -1,6 +1,5 @@
-#ifndef PERSON_H
-#define PERSON_H
-#include "person.h"
+#ifndef Person_h
+#define Person_h
 #include <string>
 
 struct Person {
